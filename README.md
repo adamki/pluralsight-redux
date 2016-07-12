@@ -1,2 +1,1 @@
 # pluralsight-redux
-# pluralsight-redux
